@@ -1,0 +1,33 @@
+/* .container{
+    background-color: rgba(12, 12, 231, 0.937);
+}
+
+.fs-4 {
+    color: white;
+} */
+.container-fluid{
+    height: 100px;
+}
+.row{
+    background-color: #252258;
+    height: 100%;
+}
+
+.row2{
+    margin-top: 10px; 
+    background-color: #252258; 
+    color: white;
+}
+
+.col>h1{
+    color: white;
+    padding-top: 20px;
+}
+
+thead{
+    background-color: rgba(249, 212, 117, 0.725);
+}
+
+.center{
+    text-align: center;
+}
